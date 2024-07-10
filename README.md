@@ -1,11 +1,24 @@
+<h3> Weather Check App</h3>
+This is a simple web application that displays current weather information using a weather API.
 
-Give information on weather conditions.
+Clone
+Clone this repository to your local machine using this link:
 
+arduino
+Copy code
+https://github.com/avanishgupta07/Weather-Check.git
+Live Demo
+Check out the live demo of the app here.
 
-Use of Local weather API for current weather condition.
-
-<img width="914" alt="image" src="https://github.com/avanishgupta07/Weather-Check/assets/125639786/44f266d0-f60a-4064-8395-e821397fe346">
-
-
-
-LINK https://avanishgupta07.github.io/Weather-Check/
+Features
+Display current weather conditions based on user location.
+Retrieve weather data using a third-party weather API.
+Responsive design for various screen sizes.
+Technologies Used
+HTML
+CSS
+JavaScript
+Weather API (Replace with the actual API link you used)
+Usage
+Clone the repository to your local machine.
+Open index.html in your web browser.
